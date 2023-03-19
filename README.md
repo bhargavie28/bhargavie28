@@ -21,6 +21,8 @@
 <li>Tools and Technologies - <code>Git</code>, <code>NPM</code>, <code>Yarn</code>, <code>Github-Pages</code></li>
 <li>Areas for interests - <code>Backend</code>,<code>Web Development</code>, <code>Frontend Development</code>, <code>UI Design/Development</code> &amp;</li>
 </ul>
+
+[![Bhargavi's github stats](https://github-readme-stats.vercel.app/api?username=bhargavie28)](https://github.com/bhargavie28/github-readme-stats)
 <!---
 bhargavie28/bhargavie28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
